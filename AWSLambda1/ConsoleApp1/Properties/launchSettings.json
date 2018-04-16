@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Email_subject": "Test",
+        "Email_SmtpHost": "webmail.promactinfo.com",
+        "Email_SmtpPort": "587",
+        "Email_UserName": "support@promactinfo.com",
+        "Email_SmtpPassword": "Promact2016",
+        "webaccountingDB": "server=localhost;User Id=root;password=Promact2017;Persist Security Info=True;database=master_client",
+        "Email_From": "partha@promactinfo.com"
+      }
+    }
+  }
+}
